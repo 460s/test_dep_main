@@ -1,4 +1,4 @@
-module github.com/460s/test_dep_main.git
+module github.com/460s/test_dep_main
 
 go 1.13
 
